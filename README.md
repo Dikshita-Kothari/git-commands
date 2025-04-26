@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/download-20B2AA?style=for-the-badge" alt="download"/>
   </a>
 
-# Commands
+# Commands (All the important once)
   - Check version
 ```
 git --version
