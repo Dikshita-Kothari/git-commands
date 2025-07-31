@@ -1,4 +1,4 @@
-# Git & GitHub Essentials 📘
+# Git & GitHub Essentials
 
 [![Download](https://img.shields.io/badge/Download-GIT-blue?style=for-the-badge&logo=github)](https://git-scm.com/downloads)
 
